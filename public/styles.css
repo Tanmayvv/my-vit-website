@@ -1,0 +1,27 @@
+h1
+{
+  color: #25519A;
+  font-style: bold;
+  font-size: 60px;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Gotham Rounded';
+  font-style: 'Medium'
+  padding: 15px;
+  
+}
+body
+{
+  background-image: url("blue.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+	background-color:#909090;
+}
+ul
+{
+  list-style: none;
+}
+p
+{
+  padding-bottom: 25px;
+}
